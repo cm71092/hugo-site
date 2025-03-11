@@ -40,17 +40,17 @@ description: 封面是我自己P的
 
 ### （一）安装git for windows
 
-　　git终端将是我们后面进行网站创建以及修改推送的重要工具，**必须安装**，具体安装教程可以参考：[](https://blog.csdn.net/middle_age666/article/details/141157518)
+　　**git**终端将是我们后面进行网站创建以及修改推送的重要工具，**必须安装**，具体安装教程可以参考：[](https://blog.csdn.net/middle_age666/article/details/141157518)
 [Windows系统上Git详细图文安装及使用教程_git安装及配置教程-CSDN博客](https://blog.csdn.net/middle_age666/article/details/141157518)
 
 ### [](https://blog.csdn.net/middle_age666/article/details/141157518)（二）安装VS code（非必须）
 
-　　vscode是一款功能强大的源代码编辑器，虽然是非必须下载，但是有了vscode可以让后续的许多操作变得更方便，包括编辑配置文件等，安装教程可以参考：
+　　**VS code**是一款功能强大的源代码编辑器，虽然是非必须下载，但是有了VS code可以让后续的许多操作变得更方便，包括编辑配置文件等，安装教程可以参考：
 [如何安装vscode？看这一篇就够了 - 知乎](https://zhuanlan.zhihu.com/p/687410421)[](https://blog.csdn.net/middle_age666/article/details/141157518)[](https://blog.csdn.net/middle_age666/article/details/141157518)
 
 ### [](https://blog.csdn.net/middle_age666/article/details/141157518)（三）安装HUGO
 
-　　hugo的官方文档给出了详细的的安装教程：
+　　**hugo**的官方文档给出了详细的的安装教程：
 [Windows](https://gohugo.io/installation/windows/)
 
 　　这里只介绍其中的Chocolatey安装步骤。
@@ -63,17 +63,32 @@ description: 封面是我自己P的
 
 ### （四）注册Github账号
 
-　　如果你没有Github账号，立即注册一个。打开官网：
+　　如果你没有**Github**账号，立即注册一个。打开官网：
 [GitHub · Build and ship software on a single, collaborative platform · GitHub](https://github.com/)
 
 　　点击右上角**Sign up**注册账号。
 
 ### （五）注册Netlify账号
 
-　　Netlify是一个提供远程部署静态站点服务的网站，提供免费二级域名，不用花钱买域名就能远程访问你的私人博客，打开官网：
+　　**Netlify**是一个提供远程部署静态站点服务的网站，提供免费二级域名，不用花钱买域名就能远程访问你的私人博客，打开官网：
 [Scale & Ship Faster with a Composable Web Architecture | Netlify](https://www.netlify.com/)
 
 　　点击右上角**Sign up**注册账号。
+
+### （六）准备好一个ai
+
+如今各种ai已经非常智能，能够辅助程序员进行代码写作，同样，ai也能帮助程序员阅读错误日志，有问题问ai在当今这个世代已经变成了不可或缺的技能。如果你在搭建网站的过程中碰到任何问题，都可以尝试询问ai或者阅读官方帮助文档，我这里只推荐两个ai：
+
+* **Deepseek**：
+  [DeepSeek | 深度求索](https://www.deepseek.com/)
+* **ChatGPT**：~~不方便展示网站，理由你懂的~~
+
+推荐有能力使用GPT的小伙伴还是**尽量使用GPT**，我在搭建网站的过程中发现Deepseek在代码的细节处理方面还是有待加强，而使用GPT写出来的代码几乎可以直接投入使用了。
+
+当然，如果不会使用GPT的小伙伴，直接用Deepseek也是可以的，这同样是一款功能非常强大的ai！最重要的是**免费使用**。如果自己学校有部署本地deepseek，直接使用学校的版本会更好，不会出现服务器繁忙的问题，这边附上暨大的deepseek官网：
+[暨南大学DeepSeek-R1](https://chat.jnu.edu.cn/chat/eszAFKN8AHCy5IZm)
+
+
 
 > 至此，🥰恭喜你已经完成了所有的前期准备工作，下一篇博客将教会你如何在本地部署hugo网站，敬请期待。
 
