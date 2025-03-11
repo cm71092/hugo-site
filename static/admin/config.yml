@@ -1,0 +1,29 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: images/uploads
+public_folder: /images/uploads
+collections:
+  - name: 'post'
+    label: '文章'
+    folder: 'post'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      visualEditing: true
+    fields:
+      - { label: '文件名', name: 'filename', widget: 'string'}
+      - { label: '标题', name: 'title', widget: 'string', tagname: 'h1'  }
+      - { label: '发表日期', 
+          name: 'date', 
+          widget: 'datetime',
+          default: '{{now}}' }
+      - { label: '封面', name: 'cover', widget: 'image', required: false}
+      - { label: '标签', 
+          name: 'tags', 
+          widget: 'list', 
+          multiple: true, 
+          required: false}
+      - { label: '分类', name: 'categories', widget: 'list'}
+      - { label: 'Description', name: 'description', widget: 'string' ,required: false}    
+      - { label: '正文', name: 'body', widget: 'markdown' }
