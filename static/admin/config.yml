@@ -1,13 +1,13 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: content/post/{{slug}}
-public_folder: /post/{{slug}}
+media_folder: "content/post/{{slug}}"
+public_folder: "/post/{{slug}}"
 collections:
   - name: 'post'
     label: '文章'
-    folder: 'content/'
-    path: "post/{{slug}}/index"
+    folder: 'content/post'
+    path: "{{slug}}/index"
     create: true
     slug: '{{title}}'
     editor:
