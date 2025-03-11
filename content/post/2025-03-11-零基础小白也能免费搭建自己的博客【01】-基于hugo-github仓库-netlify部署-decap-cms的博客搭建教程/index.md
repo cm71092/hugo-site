@@ -50,10 +50,10 @@ description: 封面是我自己P的
 
 ### [](https://blog.csdn.net/middle_age666/article/details/141157518)（三）安装HUGO
 
-hugo的官方文档给出了详细的的安装教程：
+　　hugo的官方文档给出了详细的的安装教程：
 [Windows](https://gohugo.io/installation/windows/)
 
-这里只介绍其中的Chocolatey安装步骤。
+　　这里只介绍其中的Chocolatey安装步骤。
 
 1. 打开命令提示符：按`win+R`打开运行框（`win`键就是键盘上那个windows图标），输入`cmd`进入命令提示符。
 2. 安装包管理工具Chocolatey，输入：`@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
@@ -61,24 +61,21 @@ hugo的官方文档给出了详细的的安装教程：
 4. 成功安装，如果安装Chocolatey出现问题，请查看这篇文章（比较麻烦不推荐）：
    [windows 下安装Chocolatey（强大的软件包管理工具）_chocolatey软件免费么-CSDN博客](https://blog.csdn.net/LOER_C/article/details/116591459)
 
-
 ### （四）注册Github账号
 
-如果你没有Github账号，立即注册一个。打开官网：
+　　如果你没有Github账号，立即注册一个。打开官网：
 [GitHub · Build and ship software on a single, collaborative platform · GitHub](https://github.com/)
 
-点击右上角**Sign up**注册账号。
+　　点击右上角**Sign up**注册账号。
 
 ### （五）注册Netlify账号
 
-Netlify是一个提供远程部署静态站点服务的网站，提供免费二级域名，不用花钱买域名就能远程访问你的私人博客，打开官网：
+　　Netlify是一个提供远程部署静态站点服务的网站，提供免费二级域名，不用花钱买域名就能远程访问你的私人博客，打开官网：
 [Scale & Ship Faster with a Composable Web Architecture | Netlify](https://www.netlify.com/)
 
-点击右上角**Sign up**注册账号。
-
+　　点击右上角**Sign up**注册账号。
 
 > 至此，🥰恭喜你已经完成了所有的前期准备工作，下一篇博客将教会你如何在本地部署hugo网站，敬请期待。
->
 
 [](https://blog.csdn.net/middle_age666/article/details/141157518)
 
