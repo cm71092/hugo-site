@@ -1,7 +1,7 @@
 ---
 title: 零基础小白也能免费搭建自己的博客【01】/基于Hugo+Github仓库+Netlify部署+Decap CMS的博客搭建教程
 date: 2025-03-11
-image: 新建项目.png
+image: 新建项目2.png
 tags:
   - 教程
   - hugo
