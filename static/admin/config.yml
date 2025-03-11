@@ -9,7 +9,7 @@ collections:
     folder: 'content/post'
     path: "{{slug}}/index"
     create: true
-    slug: '{{title}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       visualEditing: true
     fields:
@@ -17,8 +17,9 @@ collections:
       - { label: '发表日期', 
           name: 'date', 
           widget: 'datetime',
+          format: "YYYY-MM-DD",
           default: '{{now}}' }
-      - { label: '封面', name: 'cover', widget: 'image', required: false}
+      - { label: '封面', name: 'image', widget: 'image', required: false}
       - { label: '标签', 
           name: 'tags', 
           widget: 'list', 
