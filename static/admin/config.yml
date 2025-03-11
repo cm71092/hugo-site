@@ -1,14 +1,15 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: static/images/uploads
-public_folder: /images/uploads
+media_folder: content/blog/{{slug}}
+public_folder: /blog/{{slug}}
 collections:
   - name: 'post'
     label: '文章'
-    folder: 'content/post'
+    folder: 'content/'
+    path: "blog/{{slug}}/index"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{title}}'
     editor:
       visualEditing: true
     fields:
