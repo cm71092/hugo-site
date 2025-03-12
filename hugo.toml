@@ -138,7 +138,12 @@ enabled = true
 enabled = true
 
 [menu]
-main = [ ]
+
+
+  [[menu.main]]
+  name = "发布文章"
+  url = "/admin/"
+  weight = 1
 
   [[menu.social]]
   identifier = "github"
