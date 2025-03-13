@@ -145,6 +145,9 @@ enabled = true
   url = "/admin/"
   weight = 1
 
+  [menu.main.params]
+  icon = "messages" 
+
   [[menu.social]]
   identifier = "github"
   name = "GitHub"
