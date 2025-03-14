@@ -1,13 +1,13 @@
 ---
 title: 【深夜漫评】荒诞喜剧下的黑色幽默——母鸡卡第11集REACTION
 date: 2025-03-13
-image: 4e266254065a802d265fb9fdacb4d0a.jpg
+image: 35b543ea03bdf294a3fbd2853bb6704079348372.png
 tags:
   - 动漫
   - 母鸡卡
 categories:
   - 动漫
-description: 孩子们，这就是史
+description: 孩子们，这就是史/二编，发现终于有初华的P图，立刻更新封面
 ---
 > 如果一坨史闻起来像史吃起来也像史，那么不用怀疑，这就是史。
 
