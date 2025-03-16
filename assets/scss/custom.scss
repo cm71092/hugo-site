@@ -1,0 +1,18 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+// 动漫分类标签样式
+// 动漫分类标签
+// 动漫分类标签
+.article-taxonomy.animation-style {
+    background: #FF69B4;  // 粉色
+    color: #FFD700;       // 金色
+    padding: 8px 16px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.article-taxonomy.animation-style:hover {
+    background: linear-gradient(45deg, #FF69B4, #FF1493); // 粉色到深粉色渐变
+    transform: translateY(-2px);
+    box-shadow: 0 0 20px rgba(255, 105, 180, 0.3);
+}

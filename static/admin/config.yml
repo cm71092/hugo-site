@@ -3,6 +3,11 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: "content/post/{{slug}}"
 public_folder: "/post/{{slug}}"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: "your-uploadcare-public-key"
+
 collections:
   - name: 'post'
     label: '文章'
