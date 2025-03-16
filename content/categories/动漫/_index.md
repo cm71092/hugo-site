@@ -4,6 +4,6 @@ description: "总的来说是安利和批评各占一半"
 slug: "test"
 image: "1.png"
 style:
-    background: "#2A2356"
-    color: "#FFE66D"
+    background: "#FAD6FF"
+    color: "#333333"
 ---
