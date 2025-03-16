@@ -3,10 +3,13 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: "content/post/{{slug}}"
 public_folder: "/post/{{slug}}"
+
 media_library:
-  name: uploadcare
+  name: cloudinary
   config:
-    publicKey: "your-uploadcare-public-key"
+    cloud_name: "dwzwo1e1p"
+    api_key: "911248658924991"
+
 
 collections:
   - name: 'post'
