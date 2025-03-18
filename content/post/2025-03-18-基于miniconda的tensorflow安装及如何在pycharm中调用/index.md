@@ -16,8 +16,6 @@ description: 学习小结
 * [](https://www.bilibili.com/video/BV1Zt411T7zE?spm_id_from=333.788.videopod.episodes&vd_source=34662320f69a066dd6a6ecb5b16dcd7a)
   [miniconda和pyCharm的安装使用-CSDN博客](https://blog.csdn.net/yk071300/article/details/142590968)
 
-
-
 默认已经安装了pycharm
 
 - - -
@@ -45,9 +43,9 @@ description: 学习小结
 
 `win+S`搜索anaconda，进入anaconda promt命令行输入以下指令，记得输入y（yes）。
 
-`conda create-n tf env python=3.9           # 创建虚拟环境`
+`conda create-n tf_env python=3.9           # 创建虚拟环境`
 
-`conda activate tf env                      # 激活虚拟环境`
+`conda activate tf_env                      # 激活虚拟环境`
 
 `conda install cudatoolkit=11.3.1           # 安装辅助包`
 
