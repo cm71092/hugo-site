@@ -43,7 +43,7 @@ description: 学习小结
 
 `win+S`搜索anaconda，进入anaconda promt命令行输入以下指令，记得输入y（yes）。
 
-`conda create-n tf_env python=3.9           # 创建虚拟环境`
+`conda create -n tf_env python=3.9           # 创建虚拟环境`
 
 `conda activate tf_env                      # 激活虚拟环境`
 
