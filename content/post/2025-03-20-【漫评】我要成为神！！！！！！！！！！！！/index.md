@@ -1,7 +1,7 @@
 ---
 title: 【漫评】我要成为神！！！！！！！！！！！！
 date: 2025-03-21
-image: https://res.cloudinary.com/dwzwo1e1p/image/upload/v1742486847/0c2a2f1e08dc595af1389d12395f8f4_ylekzr.png
+image: ""
 tags:
   - 母鸡卡
   - 感想
