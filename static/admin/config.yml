@@ -25,8 +25,14 @@ collections:
       - { label: '发表日期', 
           name: 'date', 
           widget: 'datetime',
-          format: "YYYY-MM-DD",
+          format: "YYYY-MM-DDTHH:mm:ss+08:00",
           default: '{{now}}' }
+      - { label: '更新日期', 
+          name: 'lastmod', 
+          widget: 'datetime',
+          format: "YYYY-MM-DDTHH:mm:ss+08:00",
+          default: '{{now}}',
+          required: false }    
       - { label: '封面', name: 'image', widget: 'image', required: false}
       - { label: '标签', 
           name: 'tags', 

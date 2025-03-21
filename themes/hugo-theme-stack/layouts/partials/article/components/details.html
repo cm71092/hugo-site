@@ -37,6 +37,15 @@
             </div>
         {{ end }}
 
+        {{ if .Lastmod.After .Date }}
+            <div>
+                {{ partial "helper/icon" "date" }}
+                <time class="article-time--lastmod">
+                    {{- .Lastmod | time.Format (or .Site.Params.dateFormat.lastUpdated "Jan 02, 2006 15:04 MST") -}}
+                </time>
+            </div>
+        {{ end }}
+
         {{ if $showReadingTime }}
             <div>
                 {{ partial "helper/icon" "clock" }}
