@@ -1,5 +1,5 @@
 ---
-title: 【随笔】一些对生活的想法——关于命运的一己之见
+title: 【随笔】越长大越相信命运
 date: 2025-03-20
 image: https://res.cloudinary.com/dwzwo1e1p/image/upload/v1742475427/d84642cdc3f7c88914537230543cdd5_aym0pf.jpg
 tags:
