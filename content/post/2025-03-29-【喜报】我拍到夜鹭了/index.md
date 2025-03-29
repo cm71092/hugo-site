@@ -12,4 +12,6 @@ categories:
 ---
 # 好消息好消息，蹲守一年半，我终于拍到学校的夜鹭了
 
-![](https://res.cloudinary.com/dwzwo1e1p/video/upload/v1743245029/63eba9583467e069939a5ef997d5ba40_fbqbxd.mp4)
+![](https://res.cloudinary.com/dwzwo1e1p/image/upload/v1743245965/d1f3b96601f33f0c88a009975604499_ghuq5q.png)
+
+![](https://res.cloudinary.com/dwzwo1e1p/image/upload/v1743245979/57b3f3ff3a7c268466d1ee174cbae91_ki8fe8.png)
