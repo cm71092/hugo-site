@@ -1,7 +1,7 @@
 ---
 title: Chatgpt画图无敌了卧槽
 date: 2025-03-30T17:22:00+08:00
-lastmod: 2025-03-30T17:22:00+08:00
+lastmod: 2025-03-31T10:52:00+08:00
 image: https://res.cloudinary.com/dwzwo1e1p/image/upload/v1743326572/fd25d066d43767fb9cd6f1b71854132_gufcdq.png
 tags:
   - AI
@@ -29,3 +29,5 @@ description: 真是技术革命
 ![](https://res.cloudinary.com/dwzwo1e1p/image/upload/v1743341170/7a84fdaea7ad57026a617ae28e6a178_hbxjmx.png)
 
 ![](https://res.cloudinary.com/dwzwo1e1p/image/upload/v1743341178/f4b2c6bb41588606e5d546f271789ed_knfdaj.png)
+
+![](https://res.cloudinary.com/dwzwo1e1p/image/upload/v1743389540/ChatGPT_Image_2025%E5%B9%B43%E6%9C%8831%E6%97%A5_10_50_38_u51rga.png)
