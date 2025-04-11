@@ -4,6 +4,7 @@ date: 2025-03-30T17:22:00+08:00
 lastmod: 2025-03-31T10:52:00+08:00
 image: https://res.cloudinary.com/dwzwo1e1p/image/upload/v1743326572/fd25d066d43767fb9cd6f1b71854132_gufcdq.png
 tags:
+  - 水
   - AI
   - gpt
   - mygo
